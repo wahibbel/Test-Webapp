@@ -1,5 +1,5 @@
 # Test-Webapp
-A simple web application for testing purposes.
+A simple python web application for testing purposes.
 
   Below are the steps required to get this working on a linux system.
   
